@@ -13,3 +13,15 @@ onde havia o registro de seleção do nível.</p>
 Exemplos 1:
 
 ![mata-mosquito-github](https://user-images.githubusercontent.com/89278014/233513202-d5d363f7-3030-4166-875c-5d4d74c616bc.gif)
+
+Exemplo 2:
+
+![mata-mosquito2-github](https://user-images.githubusercontent.com/89278014/233513674-bf22784a-8fc6-4d71-bf55-41bb51ccc229.gif)
+
+Exemplo 3:
+
+![mata-mosquito3-github](https://user-images.githubusercontent.com/89278014/233513843-d1c73857-d3ca-4869-8f78-ca9346be251e.gif)
+
+Exemplo 4:
+
+![mata-mosquito4-github](https://user-images.githubusercontent.com/89278014/233514057-ec7626cb-f57a-4602-ae63-379c0ac05dc0.gif)
